@@ -6,4 +6,5 @@ Macro "zzx"
  
  dbox "bb"
     shared aa
+    showmessage("this is in dbox bb")
 enddbox
