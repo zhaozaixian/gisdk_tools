@@ -7,8 +7,6 @@ Macro "MyTest"
         bmpfile="c:\\titlebar.bmp"
         ShowBitmap(bmpfile,opts)
 
-    //  adds the "Extra Menu" before the "Window" menu
-        AddMenuItem("Extra Menu", "Before", "Window") 
 EndMacro
 
 //////////=================自定义的菜单系统 ========================
